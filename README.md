@@ -11,7 +11,7 @@ Document Translator uses the customer's own credentials and subscription to perf
 Document Translator can also use custom MT systems trained via the 
 Microsoft Translator Hub (https://microsoft.com/translator/hub.aspx).
 
-Step 2. Get a Azure Cognitive Service Translation key by search "Translator Text" and copy the key to Microsfot Document TRanslator Setting panal.
+Step 2. Get an Azure Cognitive Service Translation key by search "Translator Text" in Azure Portal (https://portal.azure.com) and copy the key to Microsfot Document TRanslator Setting panal.
 
 Step 3: Upload an English txt file, say english.txt, to the app, and selelct the to/from languages, say, English/Francais
 
